@@ -31,7 +31,7 @@ Bu proje, inşaat sahalarında iş güvenliği için çalışanların kask (helm
 - Notebook’un tüm çıktıları ve markdown hücreleri görünürdür.  
 
 ### Sonuç ve Gelecek Çalışmalar
-Bu model temel bir örnek olarak geliştirilmiştir. Daha büyük ve dengeli veri setleriyle yeniden eğitildiğinde performansı artabilir. İlerleyen süreçte farklı model mimarileri veya basit bir kullanıcı arayüzü eklenerek proje genişletilebilir.
+Bu model temel bir örnek olarak geliştirilmiştir. Daha büyük ve dengeli veri setleriyle yeniden eğitildiğinde performansı artabilir. İlerleyen süreçte basit bir kullanıcı arayüzü eklenerek proje genişletilebilir.
 
 ### Bağlantılar
 - [Kaggle Notebook Linki](https://www.kaggle.com/code/ouzhanevci/safety-helmet-detection-bootcamp)
