@@ -15,7 +15,7 @@ Bu proje, inşaat sahalarında iş güvenliği için çalışanların kask (helm
 - Performans Değerlendirme: Precision, Recall, F1-Score, Confusion Matrix  
 - Transfer Learning: MobileNetV2 + üst katman eğitimi + fine-tuning  
 - Grad-CAM: Modelin odaklandığı bölgelerin görselleştirilmesi  
-- (Bonus) TensorBoard: `/kaggle/working/logs/` dizinine yazdırılarak eğitim sürecinin grafiklerle izlenmesi  
+- TensorBoard: `/kaggle/working/logs/` dizinine yazdırılarak eğitim sürecinin grafiklerle izlenmesi  
 
 ### Metrikler ve Sonuçlar
 - Baseline Model: Macro F1 ≈ 0.21 (dengesiz veri nedeniyle düşük)  
